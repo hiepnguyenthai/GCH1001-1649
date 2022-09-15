@@ -1,0 +1,12 @@
+1) PHP:
+echo "Hello World";
+2) Python:
+print ("Hello World")
+3) NodeJS/Javascript
+console.Writeline ("Hello World");
+4) .NET (C#)
+console.Writeline("Hello World");
+5) C
+printf ("Hello World")
+6) Java
+System.out.println ("Hello World");
